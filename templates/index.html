@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pet Name Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🐶 Pet Name Generator 🐱</h1>
+            <p>Type your pet’s type, personality, or color to get fun name suggestions!</p>
+            <p><strong>Developed by:</strong> Mizanur Rahman, AI Developer Trainee</p>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="user-input" placeholder="e.g., a playful golden retriever">
+            <button onclick="sendMessage()">Generate</button>
+        </div>
+
+        <div class="response-area">
+            <p><strong>Suggested Names:</strong></p>
+            <div id="response" class="response"></div>
+        </div>
+    </div>
+
+    <script>
+        function sendMessage() {
+            let input = document.getElementById("user-input").value;
+            if (!input) return;
+
+            fetch("/chatbot", {
+                method: "POST",
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({input})
+            })
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById("response").innerHTML = `<p>${data.response}</p>`;
+            });
+        }
+    </script>
+</body>
+</html>

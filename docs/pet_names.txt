@@ -1,0 +1,161 @@
+# Popular Dog Names
+Max
+Bella
+Charlie
+Luna
+Lucy
+Cooper
+Daisy
+Rocky
+Molly
+Buddy
+
+# Popular Cat Names
+Luna
+Oliver
+Leo
+Milo
+Lily
+Simba
+Chloe
+Max
+Nala
+Zoe
+
+# Cute & Funny Names
+Marshmallow
+Pickles
+Tofu
+Muffin
+Sprinkles
+Waffles
+Bubbles
+Snickers
+Pudding
+Wiggles
+
+# Personality-Based Names
+
+## Playful
+Zoomie
+Rascal
+Bounce
+Tigger
+Dash
+
+## Calm
+Mellow
+Echo
+Zen
+Whisper
+Breeze
+
+## Brave/Loyal
+Ranger
+Shadow
+Noble
+Titan
+Faith
+
+## Curious/Smart
+Newton
+Pixel
+Radar
+Scout
+Gizmo
+
+# Names by Color
+
+## White Pets
+Snowball
+Pearl
+Frosty
+Cotton
+Blizzard
+
+## Black Pets
+Midnight
+Shadow
+Raven
+Onyx
+Inky
+
+## Brown/Golden Pets
+Cocoa
+Mocha
+Honey
+Chestnut
+Maple
+
+## Grey Pets
+Ash
+Smokey
+Silver
+Mist
+Dusty
+
+# Food-Inspired Names
+Peanut
+Cookie
+Honey
+Nacho
+Brownie
+Sushi
+Oreo
+Pumpkin
+Mochi
+Cupcake
+
+# Mythical & Fantasy-Inspired Names
+Athena
+Thor
+Loki
+Draco
+Phoenix
+Zeus
+Freya
+Merlin
+Nyx
+Titan
+
+# Bird & Exotic Pet Names
+Skye
+Kiwi
+Rio
+Feather
+Chirpy
+Blaze
+Jade
+Sunny
+Stormy
+Coco
+
+# Themed Names
+
+## Nature-Inspired
+River
+Willow
+Flame
+Rocky
+Ocean
+Fern
+
+## Royalty
+King
+Queenie
+Prince
+Duke
+Princess
+Duchess
+
+## Cartoon & Pop Culture
+Garfield
+Scooby
+Bolt
+Elsa
+Yoda
+Stitch
+Simba
+Nemo
+Dobby
+Pikachu
